@@ -38,9 +38,9 @@ date_default_timezone_set('Asia/Shanghai');
 // 配置
 $DB_CONFIG = [
     'host' => 'localhost',
-    'db' => 'nav',
+    'db' => 'test',
     'user' => 'root',
-    'pwd' => '',
+    'pwd' => '111111',
 ];
 
 // 连接数据库
